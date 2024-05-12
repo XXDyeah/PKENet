@@ -23,8 +23,8 @@ matplotlib 3.5.3
 T = 5 on CIFAR100 with AFC+PKENet and classifier CNN:
 ```bash
 python3 -minclearn --options options/AFC/AFC_cnn_cifar100.yaml options/data/cifar100_3orders.yaml \
-    --initial-increment 50 --increment 10 --fixed-memory \
-    --device <GPU_ID> --label AFC_cnn_cifar100_5steps \
+    --initial-increment 50 --increment 5 --fixed-memory \
+    --device <GPU_ID> --label AFC_cnn_cifar100_10steps \
     --data-path <PATH/TO/DATA>
 ```
 
