@@ -1,7 +1,7 @@
 ## Potential Knowledge Extraction Network for Class-Incremental Learning
 
 ### Announcement
-Since our paper is still under review, we temporarily provide some benchmarks in our method for reproduction, and if the paper is eventually accepted, we will publicize our full project code soon.\
+Since our paper is still under review, please contact us before using this code for academic research.\
 Thank you for your understanding, and please respect our academic achievements. :)
 
 
