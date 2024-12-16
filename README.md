@@ -1,10 +1,5 @@
 ## Potential Knowledge Extraction Network for Class-Incremental Learning
 
-### Announcement
-Since our paper is still under review, please contact us before using this code for academic research.\
-Thank you for your understanding, and please respect our academic achievements. :)
-
-
 ### Code Dependencies
 ```
 Python 3.7
